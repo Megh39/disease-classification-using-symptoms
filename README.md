@@ -11,5 +11,5 @@ Dataset used: [Disease and Symptoms Dataset (Mendeley Data)](https://data.mendel
 The dataset contains over 240,000 samples with 300+ binary symptom features across 700+ disease categories.
 
 **Note:** The dataset is **not stored in this repository** due to its large size.  
-Please download it manually from Mendeley and place it in your project folder as:
+
 
