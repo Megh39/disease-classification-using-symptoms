@@ -28,6 +28,10 @@ The goal is to classify each patient into one of ~678 diseases after preprocessi
   <li><b>Features:</b> 377 binary symptoms</li>
   <li><b>Targets:</b> 773 diseases (later grouped to ~678)</li>
 </ul>
+<p style="background:#fff3cd; border-left:5px solid #ff9900; padding:10px; font-size:16px;">
+<strong>IMPORTANT:</strong> The dataset is NOT included in this repository because of its large size.  
+You MUST download it manually from the official source above and place it inside the <b>data/</b> folder before running the notebook.
+</p>
 
 <hr />
 
